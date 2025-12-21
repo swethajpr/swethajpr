@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @swethajpr
-- 👾 Student in tech
-- 👀 I’m interested in machine learning and its applications
-- 🖥 Python, sklearn, OpenCV, FastAPI
+# Hello, World! 🌎 I'm Swetha 👋
 
 
 <!---
