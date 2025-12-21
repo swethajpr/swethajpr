@@ -13,6 +13,21 @@ const swethaJayaprasadRaoEthamukkala = {
 ```
 <hr>
 
+<h3>💪 Extracurriculars I've Done</h3>
+<ul>
+  <li>Consultant @ 180 Degrees Consulting</li>
+  <li>Content Associate @ Rakan Tutor</li>
+  <li>Computer Science UK Personal Statement Mentor @ CollegeLAH</li>
+  <li>Research Officer @ MYFinT (2024-2025)</li>
+  <li>Media and Marketing Executive @ AMISO (2024-2025)</li>
+</ul>
+
+<hr>
+
+<div align="center>
+  
+</div>
+
 <div align="center">
 
 <h3>Meet Baby! My #30NitesOfCode Companion</h3>
