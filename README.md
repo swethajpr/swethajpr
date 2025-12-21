@@ -1,7 +1,13 @@
 <h1 align="center">What's up? I'm Swetha 😎</h1>
 <h3 align="center">🎓 1st Year BSc (Hons) Computer Science @ The University of Manchester 🇬🇧</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethajpr&label=Profile%20views&color=0e75b6&style=flat" alt="swethajpr" /> </p> -->
+```javascript
+const multiply = (x, y) => {
+  return x * y;
+};
+```
+
+
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fswethajpr%2Fswethajpr"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fswethajpr%2Fswethajpr&label=PROFILE%20VIEWS%20TODAY&countColor=%232ccce4&style=flat" /></a>
 
 ### 💪 Currently Working On:
