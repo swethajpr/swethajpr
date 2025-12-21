@@ -8,7 +8,7 @@ const swethaJayaprasadRaoEthamukkala = {
   course: "BSc (Hons) Computer Science",
   university: "The University of Manchester",
   year: 1,
-  currentlyWorkingOn: ["Machine Learning", "DSA", "Finding Hackathons"]
+  currentlyWorkingOn: ["Machine Learning", "DSA", "Full Stack Web Development", "Finding Hackathons"]
 };
 
 ```
