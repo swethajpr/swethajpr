@@ -11,8 +11,6 @@ const swethaJayaprasadRaoEthamukkala = {
 };
 
 ```
-<div align="center">
-
 <hr>
 
 <h3>💪 Extracurriculars I've Done</h3>
@@ -25,6 +23,8 @@ const swethaJayaprasadRaoEthamukkala = {
 </ul>
 
 <hr>
+
+<div align="center">
 
 <h3>👾 Work Experience</h3>
 <hr />
