@@ -1,20 +1,15 @@
 <h1 align="center">What's up? I'm Swetha 😎</h1>
 <h3 align="center">🎓 1st Year BSc (Hons) Computer Science @ The University of Manchester 🇬🇧</h3>
 
-```javascript
-const multiply = (x, y) => {
-  return x * y;
-};
-```
-
-
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fswethajpr%2Fswethajpr"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fswethajpr%2Fswethajpr&label=PROFILE%20VIEWS%20TODAY&countColor=%232ccce4&style=flat" /></a>
 
-### 💪 Currently Working On:
-- 🤖 Machine Learning —> exploring data preprocessing, training models, and evaluating performance
-- 🧠 Data Structures and Algorithms -> learning different data structures and applying them in LeetCode questions 
-- 🧟‍♀️ Lurking around for hackathons
-
+```javascript
+const swethaJayaprasadRaoEthamukkala = {
+  pronouns: "she" | "her" | "hers",
+  coffeeConsumption: "hella high",
+  currentlyWorking: ["Machine Learning", "DSA", "Finding Hackathons"]
+};
+```
 <hr>
 
 <h3 align="left">Connect with me:</h3>
