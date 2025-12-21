@@ -15,7 +15,7 @@ const swethaJayaprasadRaoEthamukkala = {
 
 <div align="center">
 
-<h3>Meet Baby! My <a>#30NitesOfCode</a> Companion</h3>
+<h3>Meet Baby! My <a color="blue" src="#">#30NitesOfCode</a> Companion</h3>
 <a href="https://www.codedex.io/@makemeswey/30-nites-of-code" target="_blank">
   <img src="evolved-happy-dinosaur.gif" alt="Codédex Pet" width="300" />
 </a>
