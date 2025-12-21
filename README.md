@@ -23,6 +23,17 @@ const swethaJayaprasadRaoEthamukkala = {
   <li>Media and Marketing Executive @ AMISO (2024-2025)</li>
 </ul>
 
+<hr>
+
+<h3>📄 Experience</h3>
+<div align="left">
+
+<img src="https://img.shields.io/badge/RELDYN-FF69B4?style=for-the-badge&logoColor=white" alt="RELDYN" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FINODYN-008080?style=for-the-badge&logoColor=white" alt="FINODYN" />
+
+</div>
+
 <div align="center">
 <hr>
 <h3>Meet Baby! My #30NitesOfCode Companion</h3>
