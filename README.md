@@ -1,4 +1,4 @@
-<h1 align="center" >°°°·.°·..·°¯°·._.· 𝒲𝒽𝒶𝓉'𝓈 𝓊𝓅? 𝐼'𝓂 𝒮𝓌𝑒𝓉𝒽𝒶! ·._.·°¯°·..·°.·°°°</h1>
+<h1 align="center">°°°·.°·..·°¯°·._.· 𝒲𝒽𝒶𝓉'𝓈 𝓊𝓅? 𝐼'𝓂 𝒮𝓌𝑒𝓉𝒽𝒶! ·._.·°¯°·..·°.·°°°</h1>
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fswethajpr%2Fswethajpr"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fswethajpr%2Fswethajpr&label=PROFILE%20VIEWS%20TODAY&countColor=%232ccce4&style=flat" /></a>
 
