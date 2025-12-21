@@ -7,8 +7,9 @@
 const swethaJayaprasadRaoEthamukkala = {
   pronouns: "she" | "her" | "hers",
   coffeeConsumption: "hella high",
-  currentlyWorking: ["Machine Learning", "DSA", "Finding Hackathons"]
+  currentlyWorkingOn: ["Machine Learning", "DSA", "Finding Hackathons"]
 };
+
 ```
 <hr>
 
