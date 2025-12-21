@@ -1,18 +1,17 @@
-<h1 align="center">What's up? I'm Swetha 😎</h1>
-<h3 align="center">🎓 1st Year BSc (Hons) Computer Science @ The University of Manchester 🇬🇧</h3>
+<h1 align="center" >What's up? I'm Swetha 😎</h1>
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fswethajpr%2Fswethajpr"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fswethajpr%2Fswethajpr&label=PROFILE%20VIEWS%20TODAY&countColor=%232ccce4&style=flat" /></a>
 
 ```javascript
 const swethaJayaprasadRaoEthamukkala = {
   pronouns: "she" | "her" | "hers",
-  coffeeConsumption: "hella high",
+  course: "BSc (Hons) Computer Science",
+  university: "The University of Manchester",
+  year: 1,
   currentlyWorkingOn: ["Machine Learning", "DSA", "Finding Hackathons"]
 };
 
 ```
-<div align="center">
-
 <hr>
 
 <h3>💪 Extracurriculars I've Done</h3>
@@ -24,12 +23,8 @@ const swethaJayaprasadRaoEthamukkala = {
   <li>Media and Marketing Executive @ AMISO (2024-2025)</li>
 </ul>
 
+<div align="center">
 <hr>
-
-<h3>👾 Work Experience</h3>
-
-<hr />
-
 <h3>Meet Baby! My #30NitesOfCode Companion</h3>
 <a href="https://www.codedex.io/@makemeswey/30-nites-of-code" target="_blank">
   <img src="evolved-happy-dinosaur.gif" alt="Codédex Pet" width="300" />
