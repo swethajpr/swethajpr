@@ -38,7 +38,7 @@ const swethaJayaprasadRaoEthamukkala = {
 <hr>
 <h3>Meet Baby! My #30NitesOfCode Companion</h3>
 <a href="https://www.codedex.io/@makemeswey/30-nites-of-code" target="_blank">
-  <img src="evolved-happy-dinosaur.gif" alt="Codédex Pet" width="300" />
+  <img src="evolved-happy-dinosaur.gif" alt="Codédex Pet" width="200" />
 </a>
 <p><i>Building a coding habit, one night at a time.</i></p>
 
