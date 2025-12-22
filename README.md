@@ -5,8 +5,8 @@
 ```javascript
 const swethaJayaprasadRaoEthamukkala = {
   pronouns: "she" | "her" | "hers",
-  course: "BSc (Hons) Computer Science",
   university: "The University of Manchester",
+  course: "BSc (Hons) Computer Science",
   year: 1,
   currentlyWorkingOn: ["Machine Learning", "DSA", "Full Stack Web Development", "Finding Hackathons"]
 };
