@@ -14,7 +14,7 @@ const swethaJayaprasadRaoEthamukkala = {
 ```
 <hr>
 
-<h3>💪 Extracurriculars I've Done</h3>
+<h3>Extracurriculars</h3>
 <ul style="list-style-position: inside; padding-left: 0;">
   <li>Consultant @ 180 Degrees Consulting</li>
   <li>Content Associate @ Rakan Tutor</li>
@@ -25,7 +25,7 @@ const swethaJayaprasadRaoEthamukkala = {
 
 <hr>
 
-<h3>📄 Experience</h3>
+<h3>Experience</h3>
 <div align="left">
 
 <img src="https://img.shields.io/badge/RELDYN-FF69B4?style=for-the-badge&logoColor=white" alt="RELDYN" />
@@ -35,15 +35,6 @@ const swethaJayaprasadRaoEthamukkala = {
 </div>
 
 <div align="center">
-<hr>
-<h3>Meet Baby! My #30NitesOfCode Companion</h3>
-<a href="https://www.codedex.io/@makemeswey/30-nites-of-code" target="_blank">
-  <img src="evolved-happy-dinosaur.gif" alt="Codédex Pet" width="200" />
-</a>
-<p><i>Building a coding habit, one night at a time.</i></p>
-
-<br />
-
 <hr />
 
 <h3>Languages and Tools:</h3>
