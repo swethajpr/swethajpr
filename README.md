@@ -56,12 +56,4 @@ const swethaJayaprasadRaoEthamukkala = {
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
-
-<hr>
-
-<h3>Connect with me!</h3>
-<p>
-  <a href="https://linkedin.com/in/swetha-jayaprasad-rao" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/makemeswey" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
 </div>
